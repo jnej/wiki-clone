@@ -1,9 +1,93 @@
 .panel-custom-lg {
     background-color: #f9f9f9;
     border-radius: 0px;
+    border: 1px solid #dddddd;
+    margin-top: 20px;
+}
+
+.panel-custom-nav {
+  background-color: #f9f9f9;
+  border-radius: 0px;
+  border-right: 1px solid #aedaf9;
+  width: 190px;
+}
+
+.panel-custom-green {
+  background-color: #f5fffa;
+  border-radius: 0px;
+  border: 1px solid #cef2e0;
+}
+
+.well-green {
+  background-color: #cef2e0;
+  border-radius: 0px;
+  border: 1px solid #a3bfb1;
+  font-weight: bold;
+  height: 20px;
+  line-height: 3px;
+  padding: 12px;
+}
+
+.panel-custom-blue {
+  background-color: #f5faff;
+  border-radius: 0px;
+  border: 1px solid #cedff2;
+}
+
+.well-blue {
+  background-color: #cedff2;
+  border-radius: 0px;
+  border: 1px solid #a3b0bf;
+  font-weight: bold;
+  height: 20px;
+  line-height: 3px;
+  padding: 12px;
+}
+
+.panel-custom-pink {
+  background-color: #fff5fa;
+  border-radius: 0px;
+  border: 1px solid #f2cedd;
+}
+
+.well-pink {
+  background-color: #f2cedd;
+  border-radius: 0px;
+  border: 1px solid #bfa3af;
+  font-weight: bold;
+  height: 20px;
+  width: 950px;
+  line-height: 3px;
+  padding: 12px;
+}
+
+.panel-custom-purple {
+  background-color: #faf5ff;
+  border-radius: 0px;
+  border: 1px solid #ddcef2;
+}
+
+.well-purple {
+  background-color: #ddcef2;
+  border-radius: 0px;
+  border: 1px solid #afa3bf;
+  font-weight: bold;
+  height: 20px;
+  width: 950px;
+  line-height: 3px;
+  padding: 12px;
+}
+
+.rows-custom {
+  padding-top: 20px;
 }
 
 .wiki-logo {
-  height: 150px;
-  weight: 150px;
+  height: 130px;
+  width: auto;
+  padding-left: 25px;
+}
+
+li {
+  color: #337ab7;
 }
